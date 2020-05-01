@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Owner\source\repos\세이브 and 로드가 가능한 파일\세이브 and 로드가 가능한 파일\소스.cpp(46,3): error C2059: 구문 오류: '}'
+C:\Users\Owner\source\repos\세이브 and 로드가 가능한 파일\세이브 and 로드가 가능한 파일\소스.cpp(44,3): error C2360: 'Myfile' 초기화가 'case' 레이블에 의해 생략되었습니다.
+C:\Users\Owner\source\repos\세이브 and 로드가 가능한 파일\세이브 and 로드가 가능한 파일\소스.cpp(37): message : 'Myfile' 선언을 참조하십시오.

@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\Owner\source\repos\구조체\구조체\소스.cpp(13,6): warning C4101: 'turn' :참조되지 않은 지역 변수입니다.
+  구조체.vcxproj -> C:\Users\Owner\source\repos\구조체\Debug\구조체.exe

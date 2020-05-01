@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\Owner\source\repos\간단한 게임\간단한 게임\소스.cpp(20,6): warning C4101: 'page' :참조되지 않은 지역 변수입니다.
+  간단한 게임.vcxproj -> C:\Users\Owner\source\repos\간단한 게임\Debug\간단한 게임.exe
